@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday">İyi Doğdun!</string>
+    <string name="jr_android_developer">Jr.Android Developer</string>
+    <string name="date">11 Ocak</string>
+    <string name="name">Emre\n</string>
+</resources>
